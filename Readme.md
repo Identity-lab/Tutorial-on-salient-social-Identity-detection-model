@@ -1,7 +1,7 @@
 
 **Tutorials**
 
-*** The updated version of this tutorial is here https://github.com/Identity-lab/Understanding_Group_Membership_from_Language-Use_IC2S2_Tutorial
+*** Link to the updated version of this tutorial which was presented at IC2S2 2021 https://github.com/Identity-lab/Understanding_Group_Membership_from_Language-Use_IC2S2_Tutorial
 
 
 We created Jupyter Notebook tutorials which provide an easily accessible step-by-step walkthrough on how to build the salient social identity detection model (ASIA: Automated Social Identity Assessment Using Linguistic Style). 
